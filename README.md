@@ -1,3 +1,4 @@
+The code uses bag of words concept (Naive method) and implements Bayes theorem to calculate the probablity of spam/ham messages.
 
 NaiveBayes_emailClassifier
 Input File:
